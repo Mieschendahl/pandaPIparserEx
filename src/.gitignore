@@ -1,0 +1,10 @@
+*.o
+*.swp
+*.swo
+hddl-token.cpp
+hddl.cpp
+hddl.hpp
+hddl.output
+cmdline.c
+cmdline.h
+oldinference*
