@@ -61,8 +61,8 @@ int main(int argc, char** argv) {
 	int doutfile = -1;
 	int poutfile = -1;
 	bool splitParameters = true;
-    bool tworegularizeMethods = false;
-    bool inferPreconditions = true;
+  bool tworegularizeMethods = true;
+  bool inferPreconditions = true;
 	bool compileConditionalEffects = true;
 	bool linearConditionalEffectExpansion = false;
 	bool encodeDisjunctivePreconditionsInMethods = false;

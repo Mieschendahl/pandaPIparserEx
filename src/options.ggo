@@ -1,6 +1,6 @@
 package "pandaPIparser"
 version "0.1"
-purpose "The parser of the pandaPI planning system. Takes read an HTN problem written in HDDL and outputs it in pandaPI's internal simplified lifted format or one of other supported output formats"
+purpose "The parser of the pandaPI planning system. Takes an HTN problem written in HDDL and outputs it in pandaPI's internal simplified lifted format or one of other supported output formats"
 usage "./pandaPIparser [OPTIONS] domain.hddl problem.hddl output.htn"
 #description "<description>"
 #versiontext "<versiontext>"
